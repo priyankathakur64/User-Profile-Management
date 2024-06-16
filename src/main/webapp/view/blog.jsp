@@ -72,7 +72,7 @@
                 <div class="blog-item mb-5">
                     <div class="row g-0 bg-light overflow-hidden">
                         <div class="col-12 col-sm-5 h-100">
-                            <img class="img-fluid h-100" src="img\dog-with-carrot.jpg" style="object-fit: cover;">
+                            <img class="img-fluid h-100" src="\img\dog_veggies.jpeg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
                             <div class="p-4">
@@ -90,7 +90,7 @@
                 <div class="blog-item mb-5">
                     <div class="row g-0 bg-light overflow-hidden">
                         <div class="col-12 col-sm-5 h-100">
-                            <img class="img-fluid h-100" src="img\catblog.webp" style="object-fit: cover;">
+                            <img class="img-fluid h-100" src="img\cat-food.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
                             <div class="p-4">
@@ -108,7 +108,7 @@
                 <div class="blog-item mb-5">
                     <div class="row g-0 bg-light overflow-hidden">
                         <div class="col-12 col-sm-5 h-100">
-                            <img class="img-fluid h-100" src="img\blogcockatale.jpg" style="object-fit: cover;">
+                            <img class="img-fluid h-100" src="img\cokatail.jpeg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
                             <div class="p-4">
@@ -117,7 +117,7 @@
                                     <small><i class="bi bi-calendar-date me-2"></i>January 18, 2024</small>
                                 </div>
                                 <h5 class="text-uppercase mb-3">Cockatiels - In The Wild And In Our Homes</h5>
-                                <p>Intelligent, beautiful, and often downright silly, the cockatiel has been charming its way into people’s families for many years. For many parrot lovers, their first experience with a parrot was with a cockatiel. This is due to their popularity as pets in many parts of the world.</p>
+                                <p>Intelligent, beautiful, and often downright silly, the cockatiel has been charming its way into peopleâs families for many years. For many parrot lovers, their first experience with a parrot was with a cockatiel. This is due to their popularity as pets in many parts of the world.</p>
                                 <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
                                     <small><i class="bi bi-calendar-date me-2"></i>December 28, 2023</small>
                                 </div>
                                 <h5 class="text-uppercase mb-3">The Life Of A Wild Budgie</h5>
-                                <p>One of the most popular pet birds in homes today is the budgie. They’re fun, colorful, and intelligent, and their songs and chatter make any home feel more alive. Watching them interact with one another and learn to manipulate and enjoy their environment is a rewarding experience for any bird owner to observe in their homes.</p>
+                                <p>One of the most popular pet birds in homes today is the budgie. Theyâre fun, colorful, and intelligent, and their songs and chatter make any home feel more alive. Watching them interact with one another and learn to manipulate and enjoy their environment is a rewarding experience for any bird owner to observe in their homes.</p>
                                 <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                             </div>
                         </div>
@@ -144,7 +144,7 @@
                 <div class="blog-item mb-5">
                     <div class="row g-0 bg-light overflow-hidden">
                         <div class="col-12 col-sm-5 h-100">
-                            <img class="img-fluid h-100" src="img\blograbbit.avif" style="object-fit: cover;">
+                            <img class="img-fluid h-100" src="img\rabbit.avif" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
                             <div class="p-4">
@@ -153,7 +153,7 @@
                                     <small><i class="bi bi-calendar-date me-2"></i>October 28, 2023</small>
                                 </div>
                                 <h5 class="text-uppercase mb-3">Preparing for Your New Pet Rabbit: The Essentials</h5>
-                                <p>Bringing a pet rabbit home is an exciting time, especially if you are a first-time bunny owner! Here, we’ll talk about the essentials you’ll need before bringing your bunny home. </p>
+                                <p>Bringing a pet rabbit home is an exciting time, especially if you are a first-time bunny owner! Here, weâll talk about the essentials youâll need before bringing your bunny home. </p>
                                 <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                 <div class="blog-item mb-5">
                     <div class="row g-0 bg-light overflow-hidden">
                         <div class="col-12 col-sm-5 h-100">
-                            <img class="img-fluid h-100" src="img\Golfish.jpg" style="object-fit: cover;">
+                            <img class="img-fluid h-100" src="img\goldfish.jpeg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
                             <div class="p-4">
@@ -180,7 +180,7 @@
                 <div class="blog-item mb-5">
                     <div class="row g-0 bg-light overflow-hidden">
                         <div class="col-12 col-sm-5 h-100">
-                            <img class="img-fluid h-100" src="img\turtle-blog.jpg" style="object-fit: cover;">
+                            <img class="img-fluid h-100" src="img\turtles.jpeg" style="object-fit: cover;">
                         </div>
                         <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
                             <div class="p-4">
@@ -189,7 +189,7 @@
                                     <small><i class="bi bi-calendar-date me-2"></i>06 Jan, 2024</small>
                                 </div>
                                 <h5 class="text-uppercase mb-3">What Kinds of Turtles Make Good Pets?</h5>
-                                <p>The most common turtles owned as pets are the Box, Red-eared Slider, Painted, Reeve’s, Wood, and Caspian Pond turtles. Most of these are aquatic with flat streamlined shells, but the Box turtle is a land dweller with a more rounded dome-like shell.  Each of these turtles usually has a lifespan of more than 25 years, some making it into the 80 year range, like the Box turtle.</p>
+                                <p>The most common turtles owned as pets are the Box, Red-eared Slider, Painted, Reeveâs, Wood, and Caspian Pond turtles. Most of these are aquatic with flat streamlined shells, but the Box turtle is a land dweller with a more rounded dome-like shell.  Each of these turtles usually has a lifespan of more than 25 years, some making it into the 80 year range, like the Box turtle.</p>
                                 <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                             </div>
                         </div>
