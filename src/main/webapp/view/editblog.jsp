@@ -16,13 +16,13 @@
 <pre><b>
 ID          <input type="number" name="id"
 				style="border-color: cornflowerblue;" size="20px"><br>
-BLOGGERNAME <input type="text" name="name"
+BLOGGERNAME <input type="text" name="bloggername"
 				style="border-color: cornflowerblue;" size="20px"><br>				
-HEADING     <input type="text" name="name"
+HEADING     <input type="text" name="heading"
 				style="border-color: cornflowerblue;" size="20px"><br>
-CONTENT     <input type="text" name="city"
+CONTENT     <input type="text" name="content"
 				style="border-color: cornflowerblue;" size="20px"><br>
-DATE        <input type="text" name="contact"
+DATE        <input type="text" name="date"
 				style="border-color: cornflowerblue;" size="20px"><br>
 			</b></pre>
 			
@@ -44,9 +44,9 @@ DATE        <input type="text" name="contact"
 		cellpadding="12" bgcolor="#ADD8E6">
 		<th>ID</th>
 		<th>BLOGGERNAME</th>
-		<th>DATE</th>
-		<th>HEADING</th>
 		<th>CONTENT</th>
+		<th>HEADING</th>
+		<th>DATE</th>
 		
 		<%
 		try {
